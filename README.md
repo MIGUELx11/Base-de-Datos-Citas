@@ -24,5 +24,7 @@ Este proyecto implementa una base de datos para el manejo de citas médicas en u
 
 ## Autores
 
-- Estudiante: [Brandon Esauc Yaguara Pacasuca]
+- Estudiantes: [Miguel Ángel Ardila Chávez]
+-              [Juan Pablo Romero Torres]
+-              [Nicolás Alejandro Duárez Flores]          
 - Ficha SENA: [3141973]
