@@ -25,6 +25,6 @@ Este proyecto implementa una base de datos para el manejo de citas médicas en u
 ## Autores
 
 - Estudiantes: [Miguel Ángel Ardila Chávez]
--              [Juan Pablo Romero Torres]
--              [Nicolás Alejandro Duárez Flores]          
+               [Juan Pablo Forero Guerra]
+               [Nicolás Alejandro Duárez Flores]         
 - Ficha SENA: [3141973]
